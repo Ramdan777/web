@@ -1,0 +1,12 @@
+.card-surat {
+    cursor: pointer;
+    transition: 0,8s;
+}
+
+.card-surat:hover {
+    background-color: #caded1;
+}
+
+.hidden-button {
+    display: none;
+}
